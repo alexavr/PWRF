@@ -1,4 +1,4 @@
-# Polar installation WRF manual (not finished!)
+# Polar WRF manual (not finished!)
 
 Some notes while I was installing PWRF.
 

@@ -1,4 +1,4 @@
-# Polar installation WRF manual (not finished!)
+# Polar WRF installation manual (not finished!)
 
 1. Get PWRF from [Polar Meteorology Group](https://polarmet.osu.edu/PWRF/).
 
