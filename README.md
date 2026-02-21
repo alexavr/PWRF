@@ -1,6 +1,5 @@
 # PWRF
-This is my modification of the PolarWRF by the [Polar Meteorology Group](https://polarmet.osu.edu/PWRF/) of the Byrd Polar and Climate Research Center at The Ohio State University. 
-
+This is my modification of the [WRF](https://www2.mmm.ucar.edu/wrf/users/) model to create PolarWRF (version 4.5.1) by the [Polar Meteorology Group](https://polarmet.osu.edu/PWRF/) of the Byrd Polar and Climate Research Center at The Ohio State University. 
 
 I just took the latest (at the moment) version of PWRF (4.5.1) and integrated it with the proper version of WRF src. 
 
