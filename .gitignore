@@ -2,3 +2,11 @@
 *.f90
 *.o
 *.exe
+wrf*_d*
+wrfout*
+wrfrst*
+geo_em*
+met_*
+namelist.input.*
+namelist.wps.*
+Vtable
