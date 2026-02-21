@@ -13,7 +13,7 @@ This is my modification of the [WRF](https://www2.mmm.ucar.edu/wrf/users/) (vers
 2. Compile WRF and WPS (follow the instruction on [WRF Users](https://www2.mmm.ucar.edu/wrf/users/))
 
 >[!WARNING]
-> Polar Meteorology Group recommend compiling the initial condition program real.exe with the standard/classic WRF to produce the initial and boundary files. Then run wrf.exe with Polar WRF to produce the standard model output.
+> Polar Meteorology Group recommend compiling the initial condition program `real.exe` with the standard/classic WRF to produce the initial and boundary files. Then run `wrf.exe` with Polar WRF to produce the standard model output.
 
 
 Enjoy! 
